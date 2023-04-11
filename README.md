@@ -1,5 +1,6 @@
 # Classification-Capstone
-this is a Capstone Project 
+this is a Capstone Project on Credit Card Default Prediction
+
 Project Type - Classification
 
 Contribution - Team
